@@ -1,13 +1,13 @@
 # SpringMVC_SchoolManagementSystem
 
-Program
-
-###Getting Started
-
 An Example of DAO & Spring MVC Structure along with JDBC Connection.
 
+##Getting Started
 
-###Built With
+
+
+
+##Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
